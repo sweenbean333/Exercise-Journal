@@ -1,0 +1,65 @@
+body {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: aqua;
+    color: rebeccapurple;
+    font-size: x-large;
+    padding: 5px;
+}
+
+.App {
+    margin: auto;
+    width: 1000px;
+    text-align: center;
+}
+
+.App-header {
+    margin: auto;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    
+}
+
+ th {
+    border: 1px solid;
+    background-color: greenyellow;
+}
+
+tr, td {
+    border: 1px solid;
+    background-color: white;
+}
+
+input, button {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+
+button {
+    background-color: black;
+    color: white;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.link {
+    color: black;
+    margin: 7px;
+    font-size: larger;
+    font-weight: bold;
+    
+}
+
+input, select {
+    margin: 4px;
+    padding: 6px;
+    border-radius: 5px;
+}
+
+
+
+.inputs {
+    margin: 7px;
+    padding: 5px;
+}
